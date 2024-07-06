@@ -172,5 +172,6 @@ footer {
     position: relative;
     margin-left: 10px;
     flex: auto;
-    max-width: 10px;
+    max-width: 100px;
+    display: inline-block
 }
