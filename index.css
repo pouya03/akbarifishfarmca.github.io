@@ -162,12 +162,14 @@ footer {
 }
 
 #h1234 {
-    width: 18%;
-    left: 900px;
-    display: inline-block;
+    width: 26%;
+    position: relative;
+    
 }
 
 #map {
     margin: 0 auto;
-    width: 100%;
+    position: relative;
+    flex: auto;
+    margin-left: 10px;
 }
