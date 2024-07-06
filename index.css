@@ -162,7 +162,7 @@ footer {
 
 #h1234 {
     width: 26%;
-    position: relative;
+    
     
 }
 
@@ -170,4 +170,5 @@ footer {
     margin: 0 auto;
     position: relative;
     margin-left: 10px;
+    flex: auto;
 }
